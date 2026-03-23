@@ -1,0 +1,9 @@
+order_id,product,category,sales,quantity,region,month
+101,Keyboard,Electronics,1200,4,South,Jan
+102,Mouse,Electronics,800,5,North,Jan
+103,Chair,Furniture,4500,2,East,Feb
+104,Desk,Furniture,7000,1,West,Feb
+105,Monitor,Electronics,15000,3,South,Mar
+106,Lamp,Furniture,1200,4,North,Mar
+107,Mouse,Electronics,900,6,East,Apr
+108,Keyboard,Electronics,1300,2,West,Apr
